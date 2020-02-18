@@ -1,0 +1,4 @@
+.esteBackground{
+    background: rgb(240,255,107);
+    background: linear-gradient(109deg, rgba(240,255,107,1) 4%, rgba(255,209,58,1) 28%, rgba(255,209,58,1) 66%, rgba(255,241,84,1) 88%);
+}
